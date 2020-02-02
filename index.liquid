@@ -1,0 +1,25 @@
+---
+layout: _layout
+---
+<header>
+  <div style="text-align:right"><button type="save" name="save" onclick="redirect()">Config...</button></div>
+  <center><img src = "/images/LinuxReport2.webp" height = "100"></center>
+  <center><small>(Refreshes hourly) - Fork me on <a href = "https://github.com/KeithCu/LinuxReport">GitHub</a></small></center>
+</header>
+<main class="row">
+  <div class = "column">
+    {% card rss.lxer %}
+    {% card rss.lwn %}
+    {% card rss.osnews %}
+  </div>
+  <div class = "column">
+    {% card rss.reddit %}
+    {% card rss.hackernews %}
+    {% card rss.geekwire %}
+  </div>
+  <div class = "column">
+    {% card rss.slashdot %}
+    {% card rss.planetdebian %}
+    {% card rss.linuxtoday %}
+  </div>
+</main>

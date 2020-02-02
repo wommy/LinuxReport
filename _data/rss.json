@@ -1,0 +1,281 @@
+{
+  "lxer": {
+  	"link": "http://lxer.com/",
+  	"logo": "images/lxer.webp",
+  	"entries": [
+  		{
+  			"link": "http://lxer.com/module/newswire/ext_link.php?rid=281262",
+  			"title": "The Ultimate Guide to Tor Browser (with Important Tips) 2020"
+  		},{
+        "link": "http://lxer.com/module/newswire/ext_link.php?rid=281257",
+        "title": "Lightmeter will soon help you tune up your email server"
+      },{
+        "link": "http://lxer.com/module/newswire/ext_link.php?rid=281258",
+        "title": "Router problem wrap-up"
+      },{
+        "link": "http://lxer.com/module/newswire/ext_link.php?rid=281259",
+        "title": "Linux Mint 20 and LMDE 4 Announced, Cinnamon 4.6 Gets Fractional Scaling"
+      },{
+        "link": "http://lxer.com/module/newswire/ext_link.php?rid=281264",
+        "title": "How to Monitor Log Files with Graylog v3.1 on Debian 10"
+      },{
+        "link": "http://lxer.com/module/newswire/ext_link.php?rid=281265",
+        "title": "How to Take Screenshots in Debian with a Time Delay"
+      },{
+        "link": "http://lxer.com/module/newswire/ext_link.php?rid=281256",
+        "title": "Raspberry Pi Is Getting Vulkan Support"
+      },{
+        "link": "http://lxer.com/module/newswire/ext_link.php?rid=281227",
+        "title": "How to Convert to and From MP3 on Linux"
+  		}
+  	]
+  },
+  "lwn": {
+    "link": "https://lwn.net/",
+    "logo": "images/barepenguin-70.webp",
+    "entries": [
+      {
+        "link": "https://lwn.net/Articles/811275/rss",
+        "title": "GNU C Library 2.31 released"
+      },{
+        "link": "https://lwn.net/Articles/811271/rss",
+        "title": "Some weekend stable kernel updates"
+      },{
+        "link": "https://lwn.net/Articles/811235/rss",
+        "title": "The Yocto Project mourns Scott Rifenbark"
+      },{
+        "link": "https://lwn.net/Articles/810663/rss",
+        "title": "[$] Accelerating netfilter with hardware offload, part 2"
+      },{
+        "link": "https://lwn.net/Articles/811199/rss",
+        "title": "Security updates for Friday"
+      },{
+        "link": "https://lwn.net/Articles/810780/rss",
+        "title": "[$] The 5.6 merge window opens"
+      },{
+        "link": "https://lwn.net/Articles/811049/rss",
+        "title": "Lars Kurth RIP"
+      },{
+        "link": "https://lwn.net/Articles/811026/rss",
+        "title": "A new stable kernel crop"
+      }
+    ]
+  },
+  "osnews": {
+    "link": "http://www.osnews.com/",
+    "logo": "images/osnews-logo.webp",
+    "entries": [
+      {
+        "link": "https://www.osnews.com/story/131285/usb-if-announces-publication-of-usb4-specification/",
+        "title": "USB-IF announces publication of USB4 specification"
+      },{
+        "link": "https://www.osnews.com/story/131280/risc-v-os-using-rust/",
+        "title": "RISC-V OS using Rust"
+      },{
+        "link": "https://www.osnews.com/story/131278/eu-lawmakers-with-eye-on-apple-call-for-common-mobile-charger/",
+        "title": "EU lawmakers, with eye on Apple, call for common mobile charger"
+      },{
+        "link": "https://www.osnews.com/story/131276/google-releases-open-source-2fa-security-key-platform-called-opensk/",
+        "title": "Google releases open-source 2FA security key platform called OpenSK"
+      },{
+        "link": "https://www.osnews.com/story/131274/a-deep-dive-into-the-apollo-guidance-computer-and-the-hack-that-saved-apollo-14/",
+        "title": "A deep dive into the Apollo Guidance Computer, and the hack that saved Apollo 14"
+      },{
+        "link": "https://www.osnews.com/story/131270/ibm-names-arvind-krishna-ceo-replacing-ginni-rometty/",
+        "title": "IBM names Arvind Krishna CEO, replacing Ginni Rometty"
+      },{
+        "link": "https://www.osnews.com/story/131267/starlink-is-a-big-deal/",
+        "title": "Starlink is a big deal"
+      },{
+        "link": "https://www.osnews.com/story/131265/the-failure-of-the-ipad/",
+        "title": "The failure of the iPad"
+      }
+    ]
+  },
+  "reddit": {
+    "link": "https://www.reddit.com/r/linux",
+    "logo": "images/redditlogosmall.webp",
+    "entries": [
+      {
+        "link": "https://www.reddit.com/r/linux/comments/evhjld/weekly_questions_and_hardware_thread_january_29/",
+        "title": "Weekly Questions and Hardware Thread - January 29, 2020"
+      },{
+        "link": "https://www.reddit.com/r/linux/comments/ewrg8z/weekend_fluff_linux_in_the_wild_thread_january_31/",
+        "title": "Weekend Fluff / Linux in the Wild Thread - January 31, 2020"
+      },{
+        "link": "https://www.reddit.com/r/linux/comments/ex55uq/installing_redhat_linux_52_on_a_25yr_old_computer/",
+        "title": "Installing redhat linux 5.2 on a 25yr old computer"
+      },{
+        "link": "https://www.reddit.com/r/linux/comments/excly3/poc_proof_of_concept_android_version_of_newpipe/",
+        "title": "PoC (Proof of Concept): Android version of NewPipe running on the Librem 5 via Anbox"
+      },{
+        "link": "https://www.reddit.com/r/linux/comments/exb3iv/spotted_in_the_wild/",
+        "title": "Spotted in the wild"
+      },{
+        "link": "https://www.reddit.com/r/linux/comments/exau6v/created_an_android_app_for_browsing_archlinux/",
+        "title": "Created an Android app for browsing Archlinux Forums, GPLv3"
+      },{
+        "link": "https://www.reddit.com/r/linux/comments/ex94dz/i_wrote_a_xresourcedatabasemanager_so_you_can/",
+        "title": "I wrote a XresourceDatabaseManager, so you can manage color/font/program config instantly! No more commenting or uncommenting!"
+      },{
+        "link": "https://www.reddit.com/r/linux/comments/ex81vj/mntmn_this_laptop_mnt_reform_and_this_phone/",
+        "title": "mntmn: this laptop (MNT Reform) and this phone (Purism Librem 5) have the same SoC (CPU/GPU/...), i.MX8M. and both run free and open source drivers and software. #FOSDEM2020"
+      }
+    ]
+  },
+  "hackernews": {
+    "link": "http://news.ycombinator.com/",
+    "logo": "images/hackernews.webp",
+    "entries": [
+      {
+        "link": "https://sipb.mit.edu/doc/safe-shell/",
+        "title": "Writing Safe Shell Scripts (2019)"
+      },{
+        "link": "https://spectrum.ieee.org/tech-talk/computing/software/classical-chinese",
+        "title": "Wenyan-lang: Classical Chinese Programming Language"
+      },{
+        "link": "https://www.smithsonianmag.com/travel/best-little-museum-you-never-visited-180956025/",
+        "title": "The Museum of Arts and Crafts in Paris is a trove of cunning inventions"
+      },{
+        "link": "https://www.pyrobot.org/",
+        "title": "PyRobot"
+      },{
+        "link": "https://www.hackerfactor.com/blog/index.php?/archives/868-Deanonymizing-Tor-Circuits.html",
+        "title": "Deanonymizing Tor Circuits"
+      },{
+        "link": "https://www.infoq.com/news/2020/01/rust-analyser-ide-support/",
+        "title": "Rust Moving Towards an IDE-Friendly Compiler with Rust Analyzer"
+      },{
+        "link": "https://github.com/piotrmurach/tty-exit",
+        "title": "TTY-Exit: terminal exit codes for humans and machines"
+      },{
+        "link": "https://www.economist.com/business/2020/01/30/deutschland-ag-rethinks-workers-role-in-management",
+        "title": "Deutschland AG rethinks workers’ role in management"
+      }
+    ]
+  },
+  "geekwire": {
+    "link": "http://www.geekwire.com/",
+    "logo": "images/GeekWire.png",
+    "entries": [
+      {
+        "link": "https://www.geekwire.com/2020/super-bowl-ads-googles-tear-jerker-tops-mama-calls-t-mobile-winona-winona/",
+        "title": "Super Bowl ads: Google’s tear-jerker is tops, mama calls for T-Mobile, Winona is in Winona and more"
+      },{
+        "link": "https://www.geekwire.com/2020/pursuit-familys-traditional-trade-propeled-hulu-vp-julie-madhusoodanan-medias-future/",
+        "title": "Pursuit of her family’s traditional trade propelled Hulu VP Julie Madhusoodanan into media’s future"
+      },{
+        "link": "https://www.geekwire.com/2020/geekwire-podcast-amazon-employees-defy-company-taxing-tech-umbrellas-lightning-rods/",
+        "title": "GeekWire Podcast: Amazon employees defy company; taxing tech; umbrellas as lightning rods"
+      },{
+        "link": "https://www.geekwire.com/2020/nasa-funds-space-manufacturing-demo-aims-put-tethers-unlimited-tech-test/",
+        "title": "NASA funds in-space manufacturing demo that will test Tethers Unlimited technology"
+      },{
+        "link": "https://www.geekwire.com/2020/geekwire-calendar-picks-race-science-speedy-hackathon-modern-mentorship/",
+        "title": "GeekWire Calendar Picks: Race science, a speedy hackathon, modern mentorship, and more"
+      },{
+        "link": "https://www.geekwire.com/2020/seattle-geek-finally-gave-bought-car-four-years-going-full-uber/",
+        "title": "Why this Seattle geek finally gave up and bought a car four years after going ‘full Uber’"
+      },{
+        "link": "https://www.geekwire.com/2020/geekwire-200-update-reveals-trending-startups-edtech-consumer-tech-b-c/",
+        "title": "GeekWire 200 update reveals trending startups in edtech, consumer tech, B.C. and more"
+      },{
+        "link": "https://www.geekwire.com/2020/microsoft-surpasses-150000-employees-1st-time-hiring-surges-outside-seattle-area-hq/",
+        "title": "Microsoft surpasses 150,000 employees for 1st time as hiring surges outside Seattle-area HQ"
+      }
+    ]
+  },
+  "slashdot": {
+    "link": "https://slashdot.org/",
+    "logo": "images/slashdotlogo.webp",
+    "entries": [
+      {
+        "link": "https://science.slashdot.org/story/20/02/01/2041207/the-worlds-largest-solar-telescope-snaps-its-first-photograph?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "title": "The World's Largest Solar Telescope Snaps Its First Photograph"
+      },{
+        "link": "https://it.slashdot.org/story/20/02/01/2034214/move-over-silicon-valley-st-louis-atlanta-small-cities-gaining-tech-jobs?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "title": "Move Over, Silicon Valley: St. Louis, Atlanta, Small Cities Gaining Tech Jobs"
+      },{
+        "link": "https://it.slashdot.org/story/20/02/01/1846256/linus-torvalds-pulls-wireguard-vpn-into-linux-56-kernel-source-tree?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "title": "Linus Torvalds Pulls WireGuard VPN into Linux 5.6 Kernel Source Tree"
+      },{
+        "link": "https://entertainment.slashdot.org/story/20/02/01/0354220/elon-musk-releases-an-electronic-dance-music-song?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "title": "Elon Musk Releases an Electronic Dance Music Song"
+      },{
+        "link": "https://developers.slashdot.org/story/20/02/01/0434213/go-115-planning-will-not-try-error-handling?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "title": "Go 1.15 Planning Will Not 'Try' Error Handling"
+      },{
+        "link": "https://entertainment.slashdot.org/story/20/02/01/1811212/joel-hodgson-tours-america-in-his-final-live-shows-with-mystery-science-theatre-3000?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "title": "Joel Hodgson Tours America in His Final Live Shows With 'Mystery Science Theatre 3000'"
+      },{
+        "link": "https://science.slashdot.org/story/20/02/01/0239235/spitzer-space-telescope-turns-out-the-lights?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "title": "Spitzer Space Telescope Turns Out the Lights"
+      },{
+        "link": "https://tech.slashdot.org/story/20/02/01/0152225/should-huawei-just-abandon-android?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "title": "Should Huawei Just Abandon Android?"
+      }
+    ]
+  },
+  "planetdebian": {
+    "link": "http://planet.debian.org/",
+    "logo": "images/Debian-OpenLogo.svg",
+    "entries": [
+      {
+        "link": "http://joeyh.name/blog/entry/arduino-copilot_one_week_along/",
+        "title": "Joey Hess: arduino-copilot one week along"
+      },{
+        "link": "https://jonathancarter.org/2020/02/01/free-software-activities-for-2020-01/",
+        "title": "Jonathan Carter: Free Software Activities for 2020-01"
+      },{
+        "link": "https://diziet.dreamwidth.org/4991.html",
+        "title": "Ian Jackson: ipv6 at home on the guest wifi"
+      },{
+        "link": "https://blog.olasd.eu/2020/02/minidebcamp-fosdem-2020/",
+        "title": "Nicolas Dandrimont: DebConf Video team sprint (and stuff) @ MiniDebCamp FOSDEM 2020"
+      },{
+        "link": "http://bonedaddy.net/pabs3/log/2020/02/01/floss-activities/",
+        "title": "Paul Wise: FLOSS Activities January 2020"
+      },{
+        "link": "http://www.netfort.gr.jp/~dancer/diary/daily/2020-Feb-1.html.en#2020-Feb-1-10:19:16",
+        "title": "Junichi Uekawa: FUSE behaving differently from what I expected."
+      },{
+        "link": "http://keithp.com/blogs/crowd-supply/",
+        "title": "Keith Packard: crowd-supply"
+      },{
+        "link": "https://chris-lamb.co.uk/posts/free-software-activities-in-january-2020",
+        "title": "Chris Lamb: Free software activities in January 2020"
+      }
+    ]
+  },
+  "linuxtoday": {
+    "link": "http://www.linuxtoday.com/",
+    "logo": "images/linuxtd_logo.png",
+    "entries": [
+      {
+        "link": "http://feedproxy.google.com/~r/linuxtoday/linux/~3/vROtgWTmQfk/wireguard-is-now-in-linus-tree-wireguard-200130010517.html",
+        "title": "WireGuard is now in Linus Tree! WireGuard"
+      },{
+        "link": "http://feedproxy.google.com/~r/linuxtoday/linux/~3/ww3BV0Urfd0/discus-show-colourised-disk-space-usage-in-linux-200129223018.html",
+        "title": "Discus - Show Colourized Disk Space Usage in Linux"
+      },{
+        "link": "http://feedproxy.google.com/~r/linuxtoday/linux/~3/xOc4K-wYgYs/meet-furybsd-a-new-desktop-bsd-distribution-200129191010.html",
+        "title": "Meet FuryBSD: A New Desktop BSD Distribution"
+      },{
+        "link": "http://feedproxy.google.com/~r/linuxtoday/linux/~3/retp1ypAyEo/how-to-amend-git-commit-message-200129143516.html",
+        "title": "How To Amend Git Commit Message"
+      },{
+        "link": "http://feedproxy.google.com/~r/linuxtoday/linux/~3/L6eJYf12STs/top-cloud-security-companies.html",
+        "title": "Top Cloud Security Companies"
+      },{
+        "link": "http://feedproxy.google.com/~r/linuxtoday/linux/~3/PR_Pnk8gcxs/top-14-open-source-web-development-tools.html",
+        "title": "Top 14 Open Source Web Development Tools"
+      },{
+        "link": "http://feedproxy.google.com/~r/linuxtoday/linux/~3/a7jlSRIcOh8/heres-ubuntu-touch-running-on-the-pinephone-200129141026.html",
+        "title": "Here's Ubuntu Touch Running on the PinePhone"
+      },{
+        "link": "http://feedproxy.google.com/~r/linuxtoday/linux/~3/THLXV7rO0L4/how-to-install-software-trough-flatpak-on-debian-10-200129112012.html",
+        "title": "How to Install Software trough Flatpak on Debian 10"
+      }
+    ]
+  }
+}

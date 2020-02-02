@@ -1,0 +1,11 @@
+{
+  "name": "LinuxReport",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:wommy/LinuxReport.git",
+  "author": "wommy <tom@technomad.media>",
+  "license": "MIT",
+  "dependencies": {
+    "@11ty/eleventy": "^0.10.0"
+  }
+}
