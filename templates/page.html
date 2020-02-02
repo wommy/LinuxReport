@@ -4,49 +4,43 @@
     <title>LinuxReport</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <style>
-   * {
-      box-sizing: border-box;
-    }
+      * {
+        box-sizing: border-box;
+      }
 
-    a:link {
-      color: black;
-    }
+      a:link, a:visited, a:hover, a:active {
+        color: black;
+      }
 
-    a:visited {
-      color: black;
-    }
+      .column center a img {
+        width: 100%;
+        max-height: 75px;
+      }
 
-    a:hover {
-      color: black;
-    }
-
-    .linkclass {margin-bottom: .4em }
-
-    a:active {
-      color: black;
-    } 
+      .linkclass { 
+        font-family: monospace;
+        font-size: large;
+        margin-bottom: .4em;
+      }
     
-    {% if not request.MOBILE %}
-    /* Create three equal columns that floats next to each other */
-    .column {
-      float: left;
-      width: 33.33%;
-      padding: 10px;
-    }
+      /* Create three equal columns that floats next to each other */
+      .column {
+        float: left;
+        width: 33.33%;
+        padding: 10px;
+      }
     
-    .row:after {
-      content: "";
-      display: table;
-      clear: both;
-    }
-    {% endif %}
+      .row:after {
+        content: "";
+        display: table;
+        clear: both;
+      }
+    </style>
 
-  </style>
-
-  <script>
-    function redirect() {
+    <script>
+      function redirect() {
         window.location = "/config"
-        }
+      }
     </script>
 
   </head>
@@ -55,10 +49,9 @@
     <center><img src = "http://keithcu.com/images/LinuxReport2.webp" height = "100"></center>
     <center><small>(Refreshes hourly) - Fork me on <a href = "https://github.com/KeithCu/LinuxReport">GitHub</a></small></center>
     <div class="row">
-
-        <div class = "column">{{ columns[0] }}</div>
-        <div class = "column">{{ columns[1] }}</div>
-        <div class = "column">{{ columns[2] }}</div>
+      <div class = "column">{{ columns[0] }}</div>
+      <div class = "column">{{ columns[1] }}</div>
+      <div class = "column">{{ columns[2] }}</div>
     </div>
   </body>
 </html>
