@@ -1,0 +1,88 @@
+---
+link: "http://lxer.com/"
+logo: "http://keithcu.com/images/lxer.webp"
+entries: 
+  - title: "Terminal Phase – space shooting game in your terminal"
+    link: "http://lxer.com/module/newswire/ext_link.php?rid=281338"
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>LinuxReport</title>
+    <style>
+      * {
+        box-sizing: border-box;
+      }
+
+      a:link, a:visited, a:hover, a:active {
+        color: black;
+      }
+
+      header {
+        height: 75px;
+      }
+
+      header img {
+        max-height: 100%;
+      }
+      
+      .linkclass { 
+        margin-bottom: .4em;
+        font-family: monospace;
+        font-size: large;
+      }
+
+      @media screen and (min-width: 769px) {
+        /* Create three equal columns that floats next to each other */
+        .column {
+          float: left;
+          width: 33.33%;
+          padding: 10px;
+        }
+        
+        .row:after {
+          content: "";
+          display: table;
+          clear: both;
+        }
+
+      }
+
+    </style>
+
+    <script>
+      function redirect() {
+        window.location = "/config"
+      }
+    </script>
+
+  </head>
+  <body>
+    <div style="text-align:right"><button type="save" name="save" onclick="redirect()">Config...</button></div>
+    <center><img src="http://keithcu.com/images/LinuxReport2.webp" height="100"></center>
+    <center><small>(Refreshes hourly) - Fork me on <a href="https://github.com/KeithCu/LinuxReport">GitHub</a></small></center>
+    <div class="row">
+      <div class="column">
+        {% comment %}{{ columns[0] }}{% endcomment %}
+        {% include sitebox_new %}
+        {% include sitebox_new %}
+        {% include sitebox_new %}
+      </div>
+      <div class="column">
+        {% comment %}{{ columns[1] }}{% endcomment %}
+        {% include sitebox_new %}
+        {% include sitebox_new %}
+        {% include sitebox_new %}
+      </div>
+      <div class="column">
+        {% comment %}{{ columns[2] }}{% endcomment %}
+        {% include sitebox_new %}
+        {% include sitebox_new %}
+        {% include sitebox_new %}
+      </div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,14 @@
+<div>
+	<header>
+		<a href="{{link}}" target="_blank">
+			<img src="{{logo}}" alt="">
+		</a>
+	</header>
+	<ul>
+		{%- for e in entries %}
+		<li class="linkclass">
+			<a href="{{e.link}}" target="_blank">{{e.title}}</a>
+		</li>
+		{%- endfor %}
+	</ul>
+</div>
