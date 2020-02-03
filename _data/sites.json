@@ -1,0 +1,38 @@
+{
+  "lxer.com": {
+    "logo": "lxer.webp",
+    "rss": "https://lxer.com/module/newswire/headlines.rss"
+  },
+  "reddit.com/r/linux": {
+    "logo": "redditlogosmall.webp",
+    "rss": "https://www.reddit.com/r/linux/.rss"
+  },
+  "slashdot.org": {
+    "logo": "slashdotlogo.webp",
+    "rss": "https://rss.slashdot.org/Slashdot/slashdotMain"
+  },
+  "lwn.net": {
+    "logo": "barepenguin-70.webp",
+    "rss": "https://lwn.net/headlines/newrss"
+  },
+  "news.ycombinator.com": {
+    "logo": "hackernews.webp",
+    "rss": "https://news.ycombinator.com/rss"
+  },
+  "planet.debian.org": {
+    "logo": "Debian-OpenLogo.svg",
+    "rss": "https://planet.debian.org/rss20.xml"
+  },
+  "osnews.com": {
+    "logo": "osnews-logo.webp",
+    "rss": "https://www.osnews.com/feed/"
+  },
+  "geekwire.com": {
+    "logo": "GeekWire.png",
+    "rss": "https://www.geekwire.com/feed/"
+  },
+  "linuxtoday.com": {
+    "logo": "linuxtd_logo.png",
+    "rss": "https://feeds.feedburner.com/linuxtoday/linux"
+  }
+}
