@@ -2,7 +2,8 @@
   "lxer": {
   	"link": "http://lxer.com/",
   	"logo": "images/lxer.webp",
-  	"entries": [
+  	"url": "http://lxer.com/module/newswire/headlines.rss",
+    "entries": [
   		{
   			"link": "http://lxer.com/module/newswire/ext_link.php?rid=281262",
   			"title": "The Ultimate Guide to Tor Browser (with Important Tips) 2020"
@@ -33,6 +34,7 @@
   "lwn": {
     "link": "https://lwn.net/",
     "logo": "images/barepenguin-70.webp",
+    "url": "http://lwn.net/headlines/newrss",
     "entries": [
       {
         "link": "https://lwn.net/Articles/811275/rss",
@@ -64,6 +66,7 @@
   "osnews": {
     "link": "http://www.osnews.com/",
     "logo": "images/osnews-logo.webp",
+    "url": "http://www.osnews.com/feed/",
     "entries": [
       {
         "link": "https://www.osnews.com/story/131285/usb-if-announces-publication-of-usb4-specification/",
@@ -95,6 +98,7 @@
   "reddit": {
     "link": "https://www.reddit.com/r/linux",
     "logo": "images/redditlogosmall.webp",
+    "url": "http://www.reddit.com/r/linux/.rss",
     "entries": [
       {
         "link": "https://www.reddit.com/r/linux/comments/evhjld/weekly_questions_and_hardware_thread_january_29/",
@@ -126,6 +130,7 @@
   "hackernews": {
     "link": "http://news.ycombinator.com/",
     "logo": "images/hackernews.webp",
+    "url": "http://news.ycombinator.com/rss",
     "entries": [
       {
         "link": "https://sipb.mit.edu/doc/safe-shell/",
@@ -157,6 +162,7 @@
   "geekwire": {
     "link": "http://www.geekwire.com/",
     "logo": "images/GeekWire.png",
+    "url": "http://www.geekwire.com/feed/",
     "entries": [
       {
         "link": "https://www.geekwire.com/2020/super-bowl-ads-googles-tear-jerker-tops-mama-calls-t-mobile-winona-winona/",
@@ -188,6 +194,7 @@
   "slashdot": {
     "link": "https://slashdot.org/",
     "logo": "images/slashdotlogo.webp",
+    "url": "http://rss.slashdot.org/Slashdot/slashdotMain",
     "entries": [
       {
         "link": "https://science.slashdot.org/story/20/02/01/2041207/the-worlds-largest-solar-telescope-snaps-its-first-photograph?utm_source=rss1.0mainlinkanon&utm_medium=feed",
@@ -219,6 +226,7 @@
   "planetdebian": {
     "link": "http://planet.debian.org/",
     "logo": "images/Debian-OpenLogo.svg",
+    "url": "http://planet.debian.org/rss20.xml",
     "entries": [
       {
         "link": "http://joeyh.name/blog/entry/arduino-copilot_one_week_along/",
@@ -250,6 +258,7 @@
   "linuxtoday": {
     "link": "http://www.linuxtoday.com/",
     "logo": "images/linuxtd_logo.png",
+    "url": "http://feeds.feedburner.com/linuxtoday/linux",
     "entries": [
       {
         "link": "http://feedproxy.google.com/~r/linuxtoday/linux/~3/vROtgWTmQfk/wireguard-is-now-in-linus-tree-wireguard-200130010517.html",

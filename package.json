@@ -6,6 +6,7 @@
   "author": "wommy <tom@technomad.media>",
   "license": "MIT",
   "dependencies": {
-    "@11ty/eleventy": "^0.10.0"
+    "@11ty/eleventy": "^0.10.0",
+    "rss-parser": "^3.7.4"
   }
 }
