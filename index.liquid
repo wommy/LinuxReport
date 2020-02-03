@@ -4,6 +4,20 @@ logo: "http://keithcu.com/images/lxer.webp"
 entries: 
   - title: "Terminal Phase – space shooting game in your terminal"
     link: "http://lxer.com/module/newswire/ext_link.php?rid=281338"
+  - title: "Terminal Phase – space shooting game in your terminal"
+    link: "http://lxer.com/module/newswire/ext_link.php?rid=281338"
+  - title: "Terminal Phase – space shooting game in your terminal"
+    link: "http://lxer.com/module/newswire/ext_link.php?rid=281338"
+  - title: "Terminal Phase – space shooting game in your terminal"
+    link: "http://lxer.com/module/newswire/ext_link.php?rid=281338"
+  - title: "Terminal Phase – space shooting game in your terminal"
+    link: "http://lxer.com/module/newswire/ext_link.php?rid=281338"
+  - title: "Terminal Phase – space shooting game in your terminal"
+    link: "http://lxer.com/module/newswire/ext_link.php?rid=281338"
+  - title: "Terminal Phase – space shooting game in your terminal"
+    link: "http://lxer.com/module/newswire/ext_link.php?rid=281338"
+  - title: "Terminal Phase – space shooting game in your terminal"
+    link: "http://lxer.com/module/newswire/ext_link.php?rid=281338"
 ---
 <!doctype html>
 <html lang="en">
@@ -21,11 +35,15 @@ entries:
         color: black;
       }
 
-      header {
+      main {
+        margin: 1rem 0;
+      }
+
+      main header {
         height: 75px;
       }
 
-      header img {
+      main header img {
         max-height: 100%;
       }
       
@@ -61,28 +79,27 @@ entries:
 
   </head>
   <body>
-    <div style="text-align:right"><button type="save" name="save" onclick="redirect()">Config...</button></div>
-    <center><img src="http://keithcu.com/images/LinuxReport2.webp" height="100"></center>
-    <center><small>(Refreshes hourly) - Fork me on <a href="https://github.com/KeithCu/LinuxReport">GitHub</a></small></center>
-    <div class="row">
+    <header>
+      <div style="text-align:right"><button type="save" name="save" onclick="redirect()">Config...</button></div>
+      <center><img src="http://keithcu.com/images/LinuxReport2.webp" width="100%"></center>
+      <center><small>(Refreshes hourly) - Fork me on <a href="https://github.com/KeithCu/LinuxReport">GitHub</a></small></center>
+    </header>
+    <main class="row">
       <div class="column">
-        {% comment %}{{ columns[0] }}{% endcomment %}
         {% include sitebox_new %}
         {% include sitebox_new %}
         {% include sitebox_new %}
       </div>
       <div class="column">
-        {% comment %}{{ columns[1] }}{% endcomment %}
         {% include sitebox_new %}
         {% include sitebox_new %}
         {% include sitebox_new %}
       </div>
       <div class="column">
-        {% comment %}{{ columns[2] }}{% endcomment %}
         {% include sitebox_new %}
         {% include sitebox_new %}
         {% include sitebox_new %}
       </div>
-    </div>
+    </main>
   </body>
 </html>

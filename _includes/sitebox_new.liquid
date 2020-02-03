@@ -4,11 +4,11 @@
 			<img src="{{logo}}" alt="">
 		</a>
 	</header>
-	<ul>
+	<div>
 		{%- for e in entries %}
-		<li class="linkclass">
+		<div class="linkclass">
 			<a href="{{e.link}}" target="_blank">{{e.title}}</a>
-		</li>
+		</div>
 		{%- endfor %}
-	</ul>
+	</div>
 </div>
